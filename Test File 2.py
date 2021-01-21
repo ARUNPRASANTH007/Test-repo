@@ -6,4 +6,3 @@ elif detect == 'shape':
     print('The bottle is not in perfect shape')
 elif detect == 'dust':
     print('There is a foreign particle in the bottle')
-    
